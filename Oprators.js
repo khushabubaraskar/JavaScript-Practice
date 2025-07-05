@@ -90,3 +90,14 @@ console.log('Name:',name)
 console.log('Type of Num:',typeof num)
 console.log('Type of Name:',typeof name)
 
+
+//Task 1: Calculating Salary with Bonus 
+var bonus=10000
+var Salary=80000
+console.log('Your Salary with Bonus:',bonus+Salary)
+
+//Task 2: Calculate Percentage with Bonus
+var totalMarks=800
+var marks =600
+var Percentage=(100*marks)/totalMarks
+console.log('Percentage:',Percentage)
